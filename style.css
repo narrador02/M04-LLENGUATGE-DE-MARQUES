@@ -7,12 +7,14 @@ th, td {
 th {
     background-color: blanchedalmond;
     text-align: center;
+    font-weight: bold;
 }
 h1 {
     padding-top: 20px;
     color: cadetblue;
     text-align: center;
     margin: 10px;
+    font-weight: bold;
 }
 .table-title {
     color: darkcyan;
