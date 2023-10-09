@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+}
+th {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+h1 {
+    padding-top: 20px;
+    color: cadetblue;
+    text-align: center;
+    margin: 10px;
+}
+.table-title {
+    color: darkcyan;
+    padding: 8px;
+    padding-bottom: 16px;
+    border: none;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
