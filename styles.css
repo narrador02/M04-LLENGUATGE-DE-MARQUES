@@ -1,0 +1,46 @@
+/*QUITAR LOS MARGENES FUERA DEL BODY*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: #333333;
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+}
+nav {
+    color: white;
+    background-color: #333333;
+    position: sticky;
+    top: 50px;
+    text-align: center;
+    padding: 5px 5px;
+}
+/*QUITAR SUBRAYADO Y FORMATO DE LOS ENLACES*/
+a {
+    text-decoration: none;
+}
+/*ESTABLECER FONDO EN BLANCO Y MEDIDAS ESPECIFICAS PARA LOS MARGENES*/
+main {
+    padding: 90px 30px 40px 30px;
+    background-color: #FFFFFF;
+}
+section {
+    background-color: #F1F1F1;
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+footer {
+    background-color: #333333;
+    text-align: center;
+    color: white;
+    padding: 5px 5px;
+    font-size: 10px;
+}
