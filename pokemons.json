@@ -1,0 +1,58 @@
+{
+    "pokemons":2
+    {
+        "pokemon_id":"Legendario_01"
+        {
+            "nombre":"Rayquaza",
+            "tipos":2
+            {
+                "tipo":"Dragón",
+                "tipo":"Volador"
+            },
+            "peso_kilos":206.5,
+            "altura_metros":7,
+            "estadísticas"
+            {
+                "velocidad":5,
+                "fortaleza":5,
+                "precisión":3,
+                "resistencia":5,
+            },
+            "movimiento"
+            {
+                "nombre":"Ciclón",
+                "descripción":"Ciclón causa daño y tiene una probabilidad del 20% de amedrentar al objetivo.",
+                "potencia":40,
+                "contacto":false
+            },
+            "imagen": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/384.png",
+            "evoluciones":false
+        },
+        "pokemon_id":"Legendario_02"
+        {
+            "nombre":"Mewtwo",
+            "tipos":1
+            {
+                "tipo":"Psíquico"
+            },
+            "peso_kilos":122,
+            "altura_metros":2,
+            "estadísticas"
+            {
+                "velocidad":5,
+                "fortaleza":5,
+                "precisión":5,
+                "resistencia":4,
+            },
+            "movimiento"
+            {
+                "nombre":"Poder pasado",
+                "descripción":"Poder pasado causa daño y tiene una probabilidad del 10% de aumentar el ataque, defensa, ataque especial, defensa especial y velocidad del usuario en un nivel cada uno.",
+                "potencia":60,
+                "contacto":false
+            },
+            "imagen": "https://static.wikia.nocookie.net/pokemonleyendas/images/d/d3/Mewtwo.png/revision/latest?cb=20150307182008&path-prefix=es",
+            "evoluciones":false
+        }
+    }
+}
